@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-**Certified Digital Troubleshooter** with **14+ years** experience in **breaking systems to fix them better**. 
+**Certified Digital Troubleshooter** at Indonesia Financial Group with **14+ years** experience in **breaking systems to fix them better**. 
 
 🔐 **Security Expert** | 📊 **Data Analytics** | 🛡️ **Risk Management** | 💻 **Automation Enthusiast**
 
@@ -25,6 +25,9 @@
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
@@ -35,7 +38,7 @@
 - 📊 **Data Analytics** with Python & SQL for fraud detection
 - 🛡️ **IT Risk Management** & Compliance
 - 🤖 **Continuous Audit** automation
-- 💰 **IT Systems** security review
+- 💰 **Financial Systems** security review
 
 ## 🚀 Featured Projects
 
@@ -46,10 +49,11 @@ Bulk PDF password protection tool - **Python automation for enterprise security*
 Mass file download automation - **Enterprise file management made easy**
 
 ## 💼 Currently Working On
-- 🔄 **Continuous Audit Systems** development
-- 📊 **ERP Analytics Dashboards** 
-- 🚨 **Fraud Detection Algorithms**
-- 🛡️ **Risk Management Automation**
+- 🔄 **Continuous Audit Systems** development with Laravel
+- 📊 **ERP Analytics Dashboards** using Vue.js
+- 🚨 **Fraud Detection Algorithms** in Python
+- 🛡️ **Risk Management Web Apps** (Laravel + Vue stack)
+- 🔐 **Security Audit Tools** automation
 
 ## 🌐 Let's Connect!
 <div align="center">
@@ -63,5 +67,5 @@ Mass file download automation - **Enterprise file management made easy**
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=B-Diso&color=blueviolet&style=flat" />
   
-  **"Turning business logic into bulletproof code 🛡️"** 
+  **"Turning business logic into bulletproof code 🛡️"**
 </div>
