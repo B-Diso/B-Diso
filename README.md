@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-**Certified Digital Troubleshooter** at Indonesia Financial Group with **14+ years** experience in **breaking systems to fix them better**. 
+**Certified Digital Troubleshooter** with **14+ years** experience in **breaking systems to fix them better**. 
 
 🔐 **Security Expert** | 📊 **Data Analytics** | 🛡️ **Risk Management** | 💻 **Automation Enthusiast**
 
