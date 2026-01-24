@@ -1,71 +1,85 @@
-# Hi! 👋 I'm Bakhas Diso
+# Bakhas Diso
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Certified+Digital+Troubleshooter;14%2B+Years+IT+Professional;CISM+%7C+OSCP+%7C+OCA+Certified;Breaking+Things+to+Fix+Them" alt="Typing SVG" />
-</div>
+**Technology & Security Advisor** | 15+ Years Bridging Accounting, Business & IT
 
-## 🚀 About Me
-**Certified Digital Troubleshooter** at Indonesia Financial Group with **14+ years** experience in **breaking systems to fix them better**. 
+## About Me
 
-🔐 **Security Expert** | 📊 **Data Analytics** | 🛡️ **Risk Management** | 💻 **Automation Enthusiast**
+IT Enthusiast with multidisciplinary background in accounting, business administration, and information technology. Specialized in helping organizations navigate the intersection of financial systems, cybersecurity, and business processes. Passionate about translating complex technical concepts into actionable business insights and automating audit workflows through technology.
 
-## 🏆 Verified Professional Certifications
-<div align="center">
+## Core Expertise
 
-[![CISM](https://img.shields.io/badge/CISM-Verified-red?style=for-the-badge&logo=security)](https://www.credly.com/badges/8a91d781-7bba-40b7-b6d3-e2eca205c29c)
-[![OSCP](https://img.shields.io/badge/OSCP-Verified-darkred?style=for-the-badge&logo=kali-linux)](https://www.youracclaim.com/badges/18a8ff61-3bb8-47fd-9a24-b64cbd5420ed/linked_in_profile)
-[![OCA](https://img.shields.io/badge/OCA-Verified-orange?style=for-the-badge&logo=oracle)](https://www.youracclaim.com/badges/62b45ba8-99f1-4320-9c08-eabe3eb49e7e/linked_in_profile)
-[![CAPM](https://img.shields.io/badge/CAPM-Verified-green?style=for-the-badge&logo=pmi)](https://www.credly.com/badges/df198be8-8f7c-453c-bc29-1013330dd5e8/public_url)
-[![CCNA](https://img.shields.io/badge/CCNA-Verified-blue?style=for-the-badge&logo=cisco)](https://www.credly.com/badges/1312a9c9-8a8e-4e63-9bf5-4d27734c68d9/public_url)
-![ISO27001](https://img.shields.io/badge/ISO%2027001-Lead%20Auditor-purple?style=for-the-badge)
+**Accounting & Financial Systems**
+- Financial Audit & Internal Controls
+- Accounting Information Systems
+- ERP Security & Compliance
+- Financial Data Analytics
 
-</div>
+**Cybersecurity & Risk Management**
+- Penetration Testing & Vulnerability Assessment (OSCP)
+- Information Security Management (CISM)
+- IT Risk Assessment & Compliance
+- ISO 27001 Lead Auditor
 
-*Click badges above to verify authenticity* ✅
+**Business & Organizational Understanding**
+- Business Administration & HR Management
+- Process Improvement & Automation
+- Organizational Risk Management
+- Strategic Planning Support
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+**Technology Development**
+- Full-Stack Development (Laravel, Vue.js, React)
+- Database Management (Oracle, PostgreSQL, MySQL)
+- Automation & Scripting (Python, PHP)
+- Enterprise System Integration
 
-## 🔥 What I Do
-- 🔍 **Penetration Testing** & Vulnerability Assessment
-- 📊 **Data Analytics** with Python & SQL for fraud detection
-- 🛡️ **IT Risk Management** & Compliance
-- 🤖 **Continuous Audit** automation
-- 💰 **Financial Systems** security review
+## Professional Certifications
 
-## 🚀 Featured Projects
+[![CISM](https://img.shields.io/badge/CISM-Certified-c8102e?style=flat-square)](https://www.credly.com/badges/8a91d781-7bba-40b7-b6d3-e2eca205c29c) [![OSCP](https://img.shields.io/badge/OSCP-Certified-d32f2f?style=flat-square)](https://www.youracclaim.com/badges/18a8ff61-3bb8-47fd-9a24-b64cbd5420ed/linked_in_profile) [![OCA](https://img.shields.io/badge/Oracle-OCA-f80000?style=flat-square)](https://www.youracclaim.com/badges/62b45ba8-99f1-4320-9c08-eabe3eb49e7e/linked_in_profile) [![CAPM](https://img.shields.io/badge/PMI-CAPM-1976d2?style=flat-square)](https://www.credly.com/badges/df198be8-8f7c-453c-bc29-1013330dd5e8/public_url) [![CCNA](https://img.shields.io/badge/Cisco-CCNA-1ba0d7?style=flat-square)](https://www.credly.com/badges/1312a9c9-8a8e-4e63-9bf5-4d27734c68d9/public_url) ![ISO27001](https://img.shields.io/badge/ISO_27001-Lead_Auditor-6a1b9a?style=flat-square)
+
+## Open Source Projects
 
 ### 🔐 [BatchPasswordPDF](https://github.com/B-Diso/BatchPasswordPDF)
-Bulk PDF password protection tool - **Python automation for enterprise security**
+Bulk PDF password protection utility for enterprise document security automation.
 
-### 📁 [OneDrive-Batch-Download](https://github.com/B-Diso/OneDrive-Batch-Download)  
-Mass file download automation - **Enterprise file management made easy**
+### 📁 [OneDrive Batch Download](https://github.com/B-Diso/OneDrive-Batch-Download)
+Enterprise file management automation tool for cloud storage environments.
 
-## 💼 Currently Working On
-- 🔄 **Continuous Audit Systems** development with Laravel
-- 📊 **ERP Analytics Dashboards** using Vue.js
-- 🚨 **Fraud Detection Algorithms** in Python
-- 🛡️ **Risk Management Web Apps** (Laravel + Vue stack)
-- 🔐 **Security Audit Tools** automation
+## Current Development
 
-## 🌐 Let's Connect!
-<div align="center">
+### 🔍 Audit Management System
+Comprehensive web-based platform for managing audit engagement lifecycles - from planning and risk assessment to issue tracking and reporting. Designed to streamline audit processes for internal audit functions.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bakhas)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:bakhas@diso.my.id)
+**Tech Stack:** Laravel, Vue.js, PostgreSQL  
+**Status:** In active development
 
-</div>
+### ✅ SelfAssess
+Standards self assessment and compliance management platform. Enables organizations to manage various standards, conduct assessments, track evidence, and maintain action plans. Aims to optimize audit readiness and reduce external audit preparation time.
+
+**Tech Stack:** Laravel, Vue.js, PostgreSQL  
+**Status:** In active development
+
+*Both projects planned for open-source release under MIT license*
+
+## Technology Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases & Infrastructure**  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Areas of Focus
+
+- Implementing AI-powered continuous audit methodologies
+- Developing practical audit automation solutions
+- Building risk assessment frameworks for financial services
+- Bridging communication gap between technical and business teams
+- Contributing to open-source audit and compliance tools
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bakhas) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bakhas@diso.my.id)
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=B-Diso&color=blueviolet&style=flat" />
-  
-  **"Turning business logic into bulletproof code 🛡️"**
-</div>
+
+<sub>Bridging accounting, business, and technology through practical solutions</sub>
